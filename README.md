@@ -7,5 +7,5 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Pia Chau: TüBa-D/S
  - Melanie Kleefisch: DIRNDL-Korpus
  - Stephan Lehmler: Alcohol Language Corpus - ALC
- - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
  - Sarah Schneider: HEMPEL
+ - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
