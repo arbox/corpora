@@ -8,5 +8,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Melanie Kleefisch: DIRNDL-Korpus
  - Stephan Lehmler: Alcohol Language Corpus - ALC
  - Sarah Schneider: HEMPEL
+ - Ursula Schultze: Deutscher Wortschatz
  - Julian Stawecki: Falko
  - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
+
