@@ -1,10 +1,10 @@
-# corpora
+# Introduction: Corpora of (modern) German
 Eine annotierte Liste von modernen linguistischen Ressourcen
 
 # Liste der Quellen
  - Clemens Ahrens:
  - Andrei Beliankou: TüBa-D/Z
- - Juliane Bredack: Deutsche Referenzkorpus (DeReKo)
+ - Juliane Bredack: Deutsches Referenzkorpus (DeReKo)
  - Pia Chau: TüBa-D/S
  - Roman Dawidow:
  - Katharina Dietz:
@@ -19,3 +19,40 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Julian Stawecki: Falko
  - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
  - Jingmin Wang:
+
+# ...
+
+# Tüba-D/Z
+
+# DeReKo
+
+# TüBa-D/S
+
+# ...
+
+# ...
+
+# ...
+
+# DIRNDL-Korpus
+
+# ...
+
+# ...
+
+# ...
+
+# Alcohol Language Corpus - ALC
+
+# HEMPEL
+
+# Deutscher Wortschatz
+
+# Falko
+
+# KiezDeutsch-Korpus (KiDko)
+
+# ...
+
+# Copyright
+...
