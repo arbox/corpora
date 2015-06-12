@@ -10,7 +10,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Andrei Beliankou: TüBa-D/Z
  - Juliane Bredack: Deutsches Referenzkorpus (DeReKo)
  - Pia Chau: TüBa-D/S
- - Roman Dawidow:
+ - Roman Dawidow: DWDS - Kernkorpus des 20./21. Jahrhunderts
  - Katharina Dietz:
  - Gulchehra Kahhorova:
  - Melanie Kleefisch: DIRNDL-Korpus
