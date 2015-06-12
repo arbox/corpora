@@ -11,4 +11,4 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Ursula Schultze: Deutscher Wortschatz
  - Julian Stawecki: Falko
  - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
-
+ - Clemens Ahrens: DWDS-Kernkorpus
