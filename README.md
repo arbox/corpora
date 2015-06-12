@@ -24,6 +24,11 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 # Tüba-D/Z
 
+## Year
+## Size
+## Annotation Levels
+## Examples
+
 # DeReKo
 
 # TüBa-D/S
