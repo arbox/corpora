@@ -40,10 +40,22 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## Tüba-D/Z
 
-### Year
-### Size
-### Annotation Levels
-### Examples
+### Materialquelle
+  z.B. Zeitungstexte
+### Datum
+  z.B. 12.2014
+### Korpusumfang
+  z.B 70.000 Sätze
+### Annotationsebenen
+  z.B. Morphologie, Syntax
+### Formate
+  z.B. Folia-XML
+### Lizenz
+  z.B. GPL 3
+### Beispiele
+  z.B. `An/APPR der/ART Oder/NE wurde/VAFIN er/PPER dann/ADV verwendet/VVPP ./$.`
+### Einsatzmöglichkeiten
+  z.B. Trainieren von statistischen syntaktischen Parsern
 
 ## DeReKo
 
