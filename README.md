@@ -2,6 +2,18 @@
 Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## Table of Contents
+ * [Alcohol Language Corpus - ALC]()
+ * [Deutscher Wortschatz]()
+ * [Deutsches Referenzkorpus (DeReKo)]()
+ * [DIRNDL-Korpus]()
+ * [DWDS-Kernkorpus]()
+ * [DWDS-Kernkorpus des 20./21. Jahrhunderts]()
+ * [Falko]()
+ * [HEMPEL]()
+ * [KiezDeutsch-Korpus (KiDKo)]()
+ * [TüBa-D/S]()
+ * [TüBa-D/Z]()
+ * [Wikipedia-Korpus (DeReKo - W - wpd11)]()
 
 ## Review Structure
 
