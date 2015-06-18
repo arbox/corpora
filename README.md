@@ -6,7 +6,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 ## Review Structure
 
 ## Liste der Quellen
- - Clemens Ahrens:
+ - Clemens Ahrens: DWDS-Kernkorpus
  - Andrei Beliankou: TüBa-D/Z
  - Juliane Bredack: Deutsches Referenzkorpus (DeReKo)
  - Pia Chau: TüBa-D/S
@@ -24,7 +24,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
  - Jingmin Wang:
 
-## ...
+## DWDS-Kernkorpus
 
 ## Tüba-D/Z
 
@@ -37,9 +37,9 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## TüBa-D/S
 
-## ...
+## DWDS Kernkorpus des 20./21. Jahrhunderts
 
-## ...
+## Wikipedia-Korpus (DeReKo - W - wpd11)
 
 ## ...
 
