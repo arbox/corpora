@@ -24,7 +24,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Pia Chau: TüBa-D/S
  - Roman Dawidow: DWDS Kernkorpus des 20./21. Jahrhunderts
  - Katharina Dietz: Wikipedia-Korpus (DeReKo - W - wpd11)
- - Gulchehra Kahhorova:
+ - Gulchehra Kahhorova: SmartKom
  - Melanie Kleefisch: DIRNDL-Korpus
  - Nikola Koczuba:
  - Maximilian Kuske:
