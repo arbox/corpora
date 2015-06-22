@@ -87,7 +87,8 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
   - handschriftlich und digital verfasste Texte von fortgeschrittenen Lernern und Muttersprachlern der deutschen Sprache
   - Texte: Zusammenfassungen, argumentative Aufsätze
   - Themen: Feminismus, Entlohnung, Studium, Kriminalität
-  - Muttersprachen L2: über 35, davon die größten Gruppen in Englisch, Französisch, Russisch und Polnisch  
+  - Muttersprachen L2: über 35, davon die größten Gruppen in Englisch, Französisch, Russisch und Polnisch
+  
 ### Datum
   
 ### Korpusumfang
