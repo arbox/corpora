@@ -88,6 +88,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
   - Texte: Zusammenfassungen, argumentative Aufsätze
   - Themen: Feminismus, Entlohnung, Studium, Kriminalität
   - Muttersprachen L2: über 35, davon die größten Gruppen in Englisch, Französisch, Russisch und Polnisch
+  - Voraussetzungen der Textproduktion: Keine Hilfsmittel, 90 Minuten Bearbeitungszeit
   
 ### Datum
   
