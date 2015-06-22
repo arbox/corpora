@@ -83,6 +83,22 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## Falko
 
+### Materialquelle
+  
+### Datum
+  
+### Korpusumfang
+  
+### Annotationsebenen
+  
+### Formate
+  
+### Lizenz
+  
+### Beispiele
+  
+### Einsatzmöglichkeiten
+  
 ## KiezDeutsch-Korpus (KiDko)
 
 ## ...
