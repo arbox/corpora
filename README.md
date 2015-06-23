@@ -105,9 +105,10 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	* Synonyme
 	* Dornseiff-Sets (Sachgruppen)
 ### Formate
-	hier fehlt noch was
+	* Online: http://wortschatz.uni-leipzig.de/
+	* PDML (Presentation model description language)
 ### Lizenz
-	keine Angaben
+	Copyright Leipzig Corpora Collection
 ### Beispiele
 	* Ursula: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Ursula
 	* Haus: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Haus
