@@ -11,6 +11,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  * [Falko]()
  * [HEMPEL]()
  * [KiezDeutsch-Korpus (KiDKo)]()
+ * [SmartKom]()
  * [TüBa-D/S]()
  * [TüBa-D/Z]()
  * [Wikipedia-Korpus (DeReKo - W - wpd11)]()
@@ -65,7 +66,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## Wikipedia-Korpus (DeReKo - W - wpd11)
 
-## ...
+## SmartKom
 
 ## DIRNDL-Korpus
 
@@ -80,7 +81,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 ### Materialquelle
   Laboraufnahmen nüchterner und betrunkener Versuchspersonen.
 ### Datum
-  erste komplette Version: 04.11.2010, letztes Update(version 2.4): 02.12.2014 
+  erste komplette Version: 04.11.2010, letztes Update(version 2.4): 02.12.2014
 ### Korpusumfang
   15180 Aufnahmen von 162 Sprechern. Insgesamt 1456556 phonetische Segmente.
 ### Annotationsebenen
@@ -91,7 +92,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 ### Lizenz
   COPYRIGHT University of Munich
 ### Beispiele
-  z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf 
+  z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf
 ### Einsatzmöglichkeiten
   z.B. Automatische Erfassung des Sprecherzustandes; Phonetische oder psycholinguistische Studien
 
@@ -114,7 +115,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	| Sätze: 26.142.898   | Sätze: 49.628.893   | Sätze: 74.823.426     | Sätze: 16.899.636   | Sätze: 19.308.704     | Sätze: 16.895            |
 	| Types: 5.876.655    | Types: 4.785.862    | Types: 7.873.935      | Types: 1.913.986    | Types: 1.295.315      | Types: 44.064            |
 	| Tokens: 425.703.278 | Tokens: 926.766.504 | Tokens: 1.468.766.604 | Tokens: 391.044.224 | Tokens: 575.138.135   | Tokens: 301.449          |
-	
+
 ### Annotationsebenen
 	* Wortfrequenzen
 	* Beispielsätze
@@ -133,7 +134,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	* Hausarbeit: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Hausarbeit
 ### Einsatzmöglichkeiten
 	Nachschlagewerk, kontrastive Linguistik, quantitative Linguistik
-  
+
 ## Falko
 
 ## KiezDeutsch-Korpus (KiDko)
