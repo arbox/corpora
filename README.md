@@ -77,6 +77,24 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## Alcohol Language Corpus - ALC
 
+### Materialquelle
+  Laboraufnahmen nüchterner und betrunkener Versuchspersonen.
+### Datum
+  erste komplette Version: 04.11.2010, letztes Update(version 2.4): 02.12.2014 
+### Korpusumfang
+  15180 Aufnahmen von 162 Sprechern. Insgesamt 1456556 phonetische Segmente.
+### Annotationsebenen
+  Metadaten(Datum, Sprecher, Blutalkoholwert etc.), phonetische Segmentierung, orthografische Transkription, kanonische Aussprache,
+  Fehler/Normabweichungen(Abbrüche, dialektale Merkmale,unverständliche Wörter, Störgeräusche etc.), Kommentare
+### Formate
+  BAS Partitur Format,TextGrid, Emu hierarchical database files, Metadaten: SpeechDat, Audio: WAVE RIFF 44100Hz 16bit
+### Lizenz
+  COPYRIGHT University of Munich
+### Beispiele
+  z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf 
+### Einsatzmöglichkeiten
+  z.B. Automatische Erfassung des Sprecherzustandes; Phonetische oder psycholinguistische Studien
+
 ## HEMPEL
 
 ## Deutscher Wortschatz
