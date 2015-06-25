@@ -107,6 +107,30 @@ Stand 15.09.2014
 
 ## TüBa-D/S
 
+### Materialquelle
+ spontansprachliche, manuell transliterierte Dialoge
+ 
+ ### Datum
+ September 2000
+ 
+ ### Korpusumfang
+ ca. 38.000 Sätze bzw. 360.000 Wörter
+ 
+ ### Annotationsebenen
+- lexikalische Ebene
+- phrasale Ebene
+- Ebene der topologischen Felder
+- Satzebene
+ 
+ ### Formate
+ - Negra Export Format (ps)
+ - XML Format
+ - Penn Treebank Format
+ 
+ ### Beispiele
+ ### Einsatzmöglichkeiten
+ linguistische Forschung
+
 ## DWDS Kernkorpus des 20./21. Jahrhunderts
 
 ## Wikipedia-Korpus (DeReKo - W - wpd11)
