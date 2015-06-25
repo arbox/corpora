@@ -149,6 +149,71 @@ Stand 15.09.2014
 ### Materialquelle
   Zeitungstexte der Frankfurter Rundschau 
 
+### Datum
+1999-2004
+
+### Korpusumfang
+900,000 Tokens, 50,000 Sätze
+
+### Annotationsebenen
+Wortart, Lemma, Morphosyntax (STTS)
+Phrasenkategorien: S, NP, VP, … 
+Syntaktische Funktionen: Subjekt, Objekt, Relativsatz, … 
+
+### Formate
+TIGER-XML Format
+Negra export Format
+
+### Lizenz
+frei zugänglich
+Lizenzvereinbarungen: 
+http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license/htmlicense.html
+
+### Beispiele
+(im TIGER-xml Format)
+
+<terminals>
+ <t id="s4228_1" word="In" pos="APPR" />
+ <t id="s4228_2" word="Japan" pos="NE" />
+ <t id="s4228_3" word="wird" pos="VAFIN" />
+ <t id="s4228_4" word="offenbar" pos="ADJD" />
+ <t id="s4228_5" word="die" pos="ART" />
+ <t id="s4228_6" word="Fusion" pos="NN" />
+ <t id="s4228_7" word="der" pos="ART" />
+ <t id="s4228_8" word="Geldkonzerne" pos="NN" />
+ <t id="s4228_9" word="Daiwa" pos="NE" />
+ <t id="s4228_10" word="und" pos="KON" />
+ <t id="s4228_11" word="Sumitomo" pos="NE" />
+ <t id="s4228_12" word="zur" pos="APPRART" />
+ <t id="s4228_13" word="größten" pos="ADJA" />
+ <t id="s4228_14" word="Bank" pos="NN" />
+ <t id="s4228_15" word="der" pos="ART" />
+ <t id="s4228_16" word="Welt" pos="NN" />
+ <t id="s4228_17" word="vorbereitet" pos="VVPP" />
+ <t id="s4228_18" word="." pos="$." />
+</terminals>
+
+ <terminals>
+      <t id="s4231_1" word="In" lemma="in" pos="APPR" morph="--" />
+      <t id="s4231_2" word="Japan" lemma="Japan" pos="NE" morph="Dat.Sg.Neut" />
+      <t id="s4231_3" word="wird" lemma="werden" pos="VAFIN" morph="3.Sg.Pres.Ind" />
+      <t id="s4231_4" word="offenbar" lemma="offenbar" pos="ADJD" morph="Pos" />
+      <t id="s4231_5" word="die" lemma="der" pos="ART" morph="Nom.Sg.Fem" />
+      <t id="s4231_6" word="Fusion" lemma="Fusion" pos="NN" morph="Nom.Sg.Fem" />
+      <t id="s4231_7" word="der" lemma="der" pos="ART" morph="Gen.Pl.Masc" />
+      <t id="s4231_8" word="Geldkonzerne" lemma="Geldkonzern" pos="NN" morph="Gen.Pl.Masc" />
+      <t id="s4231_9" word="Daiwa" lemma="Daiwa" pos="NE" morph="Nom.Sg.*" />
+      <t id="s4231_10" word="und" lemma="und" pos="KON" morph="--" />
+      <t id="s4231_11" word="Sumitomo" lemma="Sumitomo" pos="NE" morph="Nom.Sg.*" />
+      <t id="s4231_12" word="zur" lemma="zu" pos="APPRART" morph="Dat.Sg.Fem" />
+      <t id="s4231_13" word="größten" lemma="groß" pos="ADJA" morph="Sup.Dat.Sg.Fem" />
+      <t id="s4231_14" word="Bank" lemma="Bank" pos="NN" morph="Dat.Sg.Fem" />
+      <t id="s4231_15" word="der" lemma="der" pos="ART" morph="Gen.Sg.Fem" />
+      <t id="s4231_16" word="Welt" lemma="Welt" pos="NN" morph="Gen.Sg.Fem" />
+      <t id="s4231_17" word="vorbereitet" lemma="vorbereiten" pos="VVPP" morph="Psp" />
+      <t id="s4231_18" word="." lemma="--" pos="$." morph="--" />
+    </terminals>
+
 ## Deutscher Wortschatz
 
 ### Materialquelle
