@@ -24,7 +24,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Juliane Bredack: Deutsches Referenzkorpus (DeReKo)
  - Pia Chau: TüBa-D/S
  - Roman Dawidow: DWDS Kernkorpus des 20./21. Jahrhunderts
- - Katharina Dietz: Wikipedia-Korpus (DeReKo - W - wpd11)
+ - Katharina Dietz: Wikipedia-Korpus (DeReKo - Tagged C)
  - Gulchehra Kahhorova: SmartKom
  - Melanie Kleefisch: DIRNDL-Korpus
  - Nikola Koczuba:
@@ -109,7 +109,34 @@ Stand 15.09.2014
 
 ## DWDS Kernkorpus des 20./21. Jahrhunderts
 
-## Wikipedia-Korpus (DeReKo - W - wpd11)
+## Wikipedia-Korpus (DeReKo - Tagged C)
+
+### Materialquelle
+Wikipedia-Artikel von 2005
+
+### Korpusumfang
+Texte: 196 854
+Wörter: 54 041 081
+
+### Annotationsebenen
+Liegt im Archiv Tagged-C vor → annotiert durch den Tagger Connexor mit dem Tagset Connexor. Dabei handelt es sich um morphosyntaktische Annotationen
+Außerdem annotiert durch den TreeTagger (POS) und den Machinese Phrase Tagger (POS)
+
+### Formate
+Das IDS-Textmodell:
+i5.odd
+i5.dtd
+i5.html
+i5.xhtml
+
+### Lizenz
+Keine Herausgabe der Korpustexte, sondern nur Zugriff über CosmasII
+
+### Beispiele
+WPD   Band 2003 sogar möglich eine Tour durch <B>Japan</> zu machen, wo sie ebenfalls viele Fans
+
+### Einsatzmöglichkeiten
+Training von Parsern, Linguistische Untersuchungen zu Schriftsprache im Internet, empirische Grundlage für verschiedene linguistische Forschungsarbeiten
 
 ## SmartKom
 
