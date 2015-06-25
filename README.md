@@ -60,6 +60,51 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## DeReKo
 
+### Materialquelle
+- deutschsprachige Textkorpora
+- belletristische, wissenschaftliche und populärwissenschaftliche Texte, auch Zeitungstexte (vollständig und unveränderte Texte)
+- mitte 20. Jahrhundert (Texte ab 1956) bis Gegenwart 
+- Korpus ist in eine Menge von Unterkorpora aufgeteilt, weltweit größte Sammlung deutschsprachiger Korpora
+
+### Datum
+Stand 15.09.2014
+
+### Korpusumfang 
+- 25 Milliarden Wörter 
+- 86 Teilkorpora in 9 Archiven organisiert 
+
+### Annotationsebenen
+- morphosyntaktische Annotation
+- Machinese Phrase Tagger, TreeTagger, Xerox FST
+
+### Formate
+- von Verlagen, Autoren gelieferte Texte in das IDS-Textmodell überführen 
+- große Mengen sehr heterogener Daten in mehreren Arbeitsschritten analysiert und aufwärts konvertiert
+- Dokumentgrammatik I5
+	- i5.odd	ODD-File mit der TEI P5-Customisierung von I5
+	- i5.dtd	Durch Roma-Stylesheets abgeleitete DTD
+	- i5.html	Durch projekt-spezifisches Stylesheet aus i5.odd abgeleitete HTML-Dokumentation
+	- i5.xhtml	Durch Roma-Stylesheets aus i5.odd abgeleitete HTML-Dokumentation
+	
+### Lizenz
+- enthält nur lizenziertes Material 
+- nicht zum Download verfügbar, keine kommerzielle Nutzung, dient ausschließlich zu Forschungszwecken 
+- es bestehen Lizenzverträge zwischen Autoren und Verlagen
+- alle Korpora IDS-intern und Teile dieser Korpora weltweit öffentlich nutzbar
+
+### Beispiele
+\par HMP09                 Russlands Gasmonopolist {\b Gazprom} pumpt weiter Gas in separaten Pipelines
+
+\par HMP08  PR-Strategie von Apple, mit der es der {\b kalifornische Computerkonzern} schaffte, seinen
+\par HMP08               schaffte, seinen iPod zum {\b erfolgreichsten Musik-Player} der Welt zu machen.
+
+### Einsatzmöglichkeiten 
+- über COSMAS II (Corpus Search Management and Analysis Tool)
+- komplexe Kollokationsanalysen
+- linguistische Forschung am IDS
+- Germanistikforschung
+- interdisziplinäre Untersuchungen, Fachgebiete Psychologie, Neurologie, Kognitionswissenschaft, Sprachtherapie, Kommunikations- und Medienwissenschaft und Statistik
+
 ## TüBa-D/S
 
 ## DWDS Kernkorpus des 20./21. Jahrhunderts
