@@ -147,7 +147,7 @@ Stand 15.09.2014
 
 ## TIGER
 ### Materialquelle
-  Zeitungstexte der Frankfurter Rundschau 
+Zeitungstexte der Frankfurter Rundschau 
 
 ### Datum
 1999-2004
@@ -213,6 +213,10 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
       <t id="s4231_17" word="vorbereitet" lemma="vorbereiten" pos="VVPP" morph="Psp" />
       <t id="s4231_18" word="." lemma="--" pos="$." morph="--" />
     </terminals>
+
+### Einsatzmöglichkeiten
+-
+
 
 ## Deutscher Wortschatz
 
