@@ -21,10 +21,8 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 ## Liste der Quellen
  - Clemens Ahrens: DWDS-Kernkorpus
  - Andrei Beliankou: TüBa-D/Z
-<<<<<<< HEAD
  - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
  - Sarah Schneider: TIGER-Baumbank
-=======
  - Juliane Bredack: Deutsches Referenzkorpus (DeReKo)
  - Pia Chau: TüBa-D/S
  - Roman Dawidow: DWDS Kernkorpus des 20./21. Jahrhunderts
@@ -293,4 +291,3 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
 
 ## Copyright
 ...
->>>>>>> 3c342cd5c714dc3075f8fe45699515ea4d027363
