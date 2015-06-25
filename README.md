@@ -21,8 +21,6 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 ## Liste der Quellen
  - Clemens Ahrens: DWDS-Kernkorpus
  - Andrei Beliankou: TüBa-D/Z
- - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
- - Sarah Schneider: TIGER-Baumbank
  - Juliane Bredack: Deutsches Referenzkorpus (DeReKo)
  - Pia Chau: TüBa-D/S
  - Roman Dawidow: DWDS Kernkorpus des 20./21. Jahrhunderts
@@ -33,7 +31,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Maximilian Kuske:
  - Christina Lang:
  - Stephan Lehmler: Alcohol Language Corpus - ALC
- - Sarah Schneider: HEMPEL
+ - Sarah Schneider: TIGER-Baumbank
  - Ursula Schultze: Deutscher Wortschatz
  - Julian Stawecki: Falko
  - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
