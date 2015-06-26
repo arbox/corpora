@@ -319,6 +319,3 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
 
 ## Copyright
 ...
-
-## Copyright
-...
