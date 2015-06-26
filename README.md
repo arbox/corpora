@@ -109,25 +109,26 @@ Stand 15.09.2014
 ### Materialquelle
  spontansprachliche, manuell transliterierte Dialoge
 
- ### Datum
+### Datum
  September 2000
 
- ### Korpusumfang
+### Korpusumfang
  ca. 38.000 Sätze bzw. 360.000 Wörter
 
- ### Annotationsebenen
+### Annotationsebenen
 - lexikalische Ebene
 - phrasale Ebene
 - Ebene der topologischen Felder
 - Satzebene
 
- ### Formate
+### Formate
  - Negra Export Format (ps)
  - XML Format
  - Penn Treebank Format
 
- ### Beispiele
- ### Einsatzmöglichkeiten
+### Beispiele
+
+### Einsatzmöglichkeiten
  linguistische Forschung
 
 ## DWDS Kernkorpus des 20./21. Jahrhunderts
@@ -216,8 +217,10 @@ Lizenzvereinbarungen:
 http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license/htmlicense.html
 
 ### Beispiele
+
 (im TIGER-xml Format)
 
+``` bash
 <terminals>
  <t id="s4228_1" word="In" pos="APPR" />
  <t id="s4228_2" word="Japan" pos="NE" />
@@ -259,7 +262,7 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
       <t id="s4231_17" word="vorbereitet" lemma="vorbereiten" pos="VVPP" morph="Psp" />
       <t id="s4231_18" word="." lemma="--" pos="$." morph="--" />
     </terminals>
-
+```
 ### Einsatzmöglichkeiten
 -
 
