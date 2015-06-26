@@ -28,7 +28,6 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Gulchehra Kahhorova: SmartKom
  - Melanie Kleefisch: DIRNDL-Korpus
  - Nikola Koczuba:
- - Maximilian Kuske:
  - Christina Lang:
  - Stephan Lehmler: Alcohol Language Corpus - ALC
  - Sarah Schneider: TIGER-Baumbank
@@ -63,32 +62,32 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 ### Materialquelle
 - deutschsprachige Textkorpora
 - belletristische, wissenschaftliche und populärwissenschaftliche Texte, auch Zeitungstexte (vollständig und unveränderte Texte)
-- mitte 20. Jahrhundert (Texte ab 1956) bis Gegenwart 
+- mitte 20. Jahrhundert (Texte ab 1956) bis Gegenwart
 - Korpus ist in eine Menge von Unterkorpora aufgeteilt, weltweit größte Sammlung deutschsprachiger Korpora
 
 ### Datum
 Stand 15.09.2014
 
-### Korpusumfang 
-- 25 Milliarden Wörter 
-- 86 Teilkorpora in 9 Archiven organisiert 
+### Korpusumfang
+- 25 Milliarden Wörter
+- 86 Teilkorpora in 9 Archiven organisiert
 
 ### Annotationsebenen
 - morphosyntaktische Annotation
 - Machinese Phrase Tagger, TreeTagger, Xerox FST
 
 ### Formate
-- von Verlagen, Autoren gelieferte Texte in das IDS-Textmodell überführen 
+- von Verlagen, Autoren gelieferte Texte in das IDS-Textmodell überführen
 - große Mengen sehr heterogener Daten in mehreren Arbeitsschritten analysiert und aufwärts konvertiert
 - Dokumentgrammatik I5
 	- i5.odd	ODD-File mit der TEI P5-Customisierung von I5
 	- i5.dtd	Durch Roma-Stylesheets abgeleitete DTD
 	- i5.html	Durch projekt-spezifisches Stylesheet aus i5.odd abgeleitete HTML-Dokumentation
 	- i5.xhtml	Durch Roma-Stylesheets aus i5.odd abgeleitete HTML-Dokumentation
-	
+
 ### Lizenz
-- enthält nur lizenziertes Material 
-- nicht zum Download verfügbar, keine kommerzielle Nutzung, dient ausschließlich zu Forschungszwecken 
+- enthält nur lizenziertes Material
+- nicht zum Download verfügbar, keine kommerzielle Nutzung, dient ausschließlich zu Forschungszwecken
 - es bestehen Lizenzverträge zwischen Autoren und Verlagen
 - alle Korpora IDS-intern und Teile dieser Korpora weltweit öffentlich nutzbar
 
@@ -98,7 +97,7 @@ Stand 15.09.2014
 \par HMP08  PR-Strategie von Apple, mit der es der {\b kalifornische Computerkonzern} schaffte, seinen
 \par HMP08               schaffte, seinen iPod zum {\b erfolgreichsten Musik-Player} der Welt zu machen.
 
-### Einsatzmöglichkeiten 
+### Einsatzmöglichkeiten
 - über COSMAS II (Corpus Search Management and Analysis Tool)
 - komplexe Kollokationsanalysen
 - linguistische Forschung am IDS
@@ -109,24 +108,24 @@ Stand 15.09.2014
 
 ### Materialquelle
  spontansprachliche, manuell transliterierte Dialoge
- 
+
  ### Datum
  September 2000
- 
+
  ### Korpusumfang
  ca. 38.000 Sätze bzw. 360.000 Wörter
- 
+
  ### Annotationsebenen
 - lexikalische Ebene
 - phrasale Ebene
 - Ebene der topologischen Felder
 - Satzebene
- 
+
  ### Formate
  - Negra Export Format (ps)
  - XML Format
  - Penn Treebank Format
- 
+
  ### Beispiele
  ### Einsatzmöglichkeiten
  linguistische Forschung
@@ -194,7 +193,7 @@ Training von Parsern, Linguistische Untersuchungen zu Schriftsprache im Internet
 
 ## TIGER
 ### Materialquelle
-Zeitungstexte der Frankfurter Rundschau 
+Zeitungstexte der Frankfurter Rundschau
 
 ### Datum
 1999-2004
@@ -204,8 +203,8 @@ Zeitungstexte der Frankfurter Rundschau
 
 ### Annotationsebenen
 Wortart, Lemma, Morphosyntax (STTS)
-Phrasenkategorien: S, NP, VP, … 
-Syntaktische Funktionen: Subjekt, Objekt, Relativsatz, … 
+Phrasenkategorien: S, NP, VP, …
+Syntaktische Funktionen: Subjekt, Objekt, Relativsatz, …
 
 ### Formate
 TIGER-XML Format
@@ -213,7 +212,7 @@ Negra export Format
 
 ### Lizenz
 frei zugänglich
-Lizenzvereinbarungen: 
+Lizenzvereinbarungen:
 http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license/htmlicense.html
 
 ### Beispiele
