@@ -157,7 +157,9 @@ i5.xhtml
 Keine Herausgabe der Korpustexte, sondern nur Zugriff über CosmasII
 
 ### Beispiele
+```
 WPD   Band 2003 sogar möglich eine Tour durch <B>Japan</> zu machen, wo sie ebenfalls viele Fans
+```
 
 ### Einsatzmöglichkeiten
 Training von Parsern, Linguistische Untersuchungen zu Schriftsprache im Internet, empirische Grundlage für verschiedene linguistische Forschungsarbeiten
@@ -188,7 +190,9 @@ Training von Parsern, Linguistische Untersuchungen zu Schriftsprache im Internet
 ### Lizenz
   COPYRIGHT University of Munich
 ### Beispiele
-  z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf
+```
+z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf
+```
 ### Einsatzmöglichkeiten
   z.B. Automatische Erfassung des Sprecherzustandes; Phonetische oder psycholinguistische Studien
 
@@ -264,7 +268,7 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
     </terminals>
 ```
 ### Einsatzmöglichkeiten
--
+
 
 
 ## Deutscher Wortschatz
@@ -286,21 +290,24 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
 	| Tokens: 425.703.278 | Tokens: 926.766.504 | Tokens: 1.468.766.604 | Tokens: 391.044.224 | Tokens: 575.138.135   | Tokens: 301.449          |
 
 ### Annotationsebenen
-	* Wortfrequenzen
-	* Beispielsätze
-	* Kookkurenzen (basierend auf left- und right-neighbours in jeweiligem Satz)
-	* Semantic map-Visualisierung der Kookkurenzen
-	* Synonyme
-	* Dornseiff-Sets (Sachgruppen)
+* Wortfrequenzen
+* Beispielsätze
+* Kookkurenzen (basierend auf left- und right-neighbours in jeweiligem Satz)
+* Semantic map-Visualisierung der Kookkurenzen
+* Synonyme
+* Dornseiff-Sets (Sachgruppen)
+
 ### Formate
-	* Online: http://wortschatz.uni-leipzig.de/
-	* PDML (Presentation model description language)
+* Online: http://wortschatz.uni-leipzig.de/
+* PDML (Presentation model description language)
 ### Lizenz
 	Copyright Leipzig Corpora Collection
 ### Beispiele
-	* Ursula: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Ursula
-	* Haus: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Haus
-	* Hausarbeit: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Hausarbeit
+
+* Ursula: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Ursula
+* Haus: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Haus
+* Hausarbeit: http://corpora.informatik.uni-leipzig.de/res.php?corpusId=deu_newscrawl_2011&word=Hausarbeit
+
 ### Einsatzmöglichkeiten
 	Nachschlagewerk, kontrastive Linguistik, quantitative Linguistik
 
