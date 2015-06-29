@@ -314,7 +314,6 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
 ## Falko
 
 ### Materialquelle
-<<<<<<< HEAD
 - handschriftlich und digital verfasste Texte von fortgeschrittenen Lernern und Muttersprachlern der deutschen Sprache
 - Texte: Zusammenfassungen, argumentative Aufsätze
 - Themen: Feminismus, Entlohnung, Studium, Kriminalität
