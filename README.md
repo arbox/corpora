@@ -314,6 +314,7 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
 ## Falko
 
 ### Materialquelle
+<<<<<<< HEAD
 - handschriftlich und digital verfasste Texte von fortgeschrittenen Lernern und Muttersprachlern der deutschen Sprache
 - Texte: Zusammenfassungen, argumentative Aufsätze
 - Themen: Feminismus, Entlohnung, Studium, Kriminalität
@@ -373,6 +374,28 @@ Gesamtkorpus besteht aus 6 Subkorpora (insgesamt 381.447 Tokens)
 - Fehleranalyse (Abweichungen von der Zielsprache): Welche Fehler sind lernertypisch? Sind Fehler von der Muttersprache der Lerner abhängig?
 - Interlinguale kontrastive Untersuchungen: Vergleich von zielsprachlichen Strukturen (Grammatik) in der Zielsprache und der Muttersprache
 
+=======
+  - handschriftlich und digital verfasste Texte von fortgeschrittenen Lernern und Muttersprachlern der deutschen Sprache
+  - Texte: Zusammenfassungen, argumentative Aufsätze
+  - Themen: Feminismus, Entlohnung, Studium, Kriminalität
+  - Muttersprachen L2: über 35, davon die größten Gruppen in Englisch, Französisch, Russisch und Polnisch
+  - Voraussetzungen der Textproduktion: Keine Hilfsmittel, 90 Minuten Bearbeitungszeit
+  
+### Datum
+  
+### Korpusumfang
+  
+### Annotationsebenen
+  
+### Formate
+  
+### Lizenz
+  
+### Beispiele
+  
+### Einsatzmöglichkeiten
+  
+>>>>>>> 8d4b8e333b13cff3acf6c61aec91c59406f5cc4a
 ## KiezDeutsch-Korpus (KiDko)
 
 ## ...
