@@ -313,6 +313,66 @@ http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/license
 
 ## Falko
 
+### Materialquelle
+- handschriftlich und digital verfasste Texte von fortgeschrittenen Lernern und Muttersprachlern der deutschen Sprache
+- Texte: Zusammenfassungen, argumentative Aufsätze
+- Themen: Feminismus, Entlohnung, Studium, Kriminalität
+- Muttersprachen L2: über 35, davon die größten Gruppen in Englisch, Französisch, Russisch und Polnisch
+- Voraussetzungen der Textproduktion: Keine Hilfsmittel, 90 Minuten Bearbeitungszeit
+  
+### Datum
+- Beginn der Datenerhebungen (seit 2004)
+- FALKO Version 1 (18. Oktober 2007)
+- FALKO Version 2 (26. September 2012)
+  
+### Korpusumfang
+Gesamtkorpus besteht aus 6 Subkorpora (insgesamt 381.447 Tokens)
+
+- Lernerkorpus
+ - FalkoSummaryL2 V1.2 (98 Lerner, 107 Texte, 40.923 Tokens)
+ - FalkoEssayL2 V2.3 (186 Lerner, 248 Texte, 122.778 Tokens)
+ - FalkoEssayL2WHIG V2.0 (117.189 Tokens)
+- Kontrollkorpus Muttersprache
+ - FalkoSummaryL1 V1.2 (33 Muttersprachler, 36 Texte, 21.184 Tokens)
+ - FalkoEssayL1 V2.3 (95 Muttersprachler, 95 Texte, 68.491 Tokens)
+- Vorlagenkorpus
+ - FalkoSummaryVL (12 Texte, 11.114 Tokens)
+- Metadaten: Muttersprache, Alter, Geschlecht, akademischer Hintergrund (Schule, Semester, Fach, etc.), Sprachbiografie (beherrschte Fremdsprachen, Zeitraum, Auslandsaufenthalte, etc.)
+
+  
+### Annotationsebenen
+- Wortarten und Lemmata
+- Zielhypothesen
+ - minimale ZH: nah an Lernerstruktur: Orthographie, Morphosyntax
+ - erweiterte ZH: nah an Lernerintention: Semantik, Pragmatik, Stilistik
+- Lernerfehler
+- korrigierte Wortarten
+- Kommentare des Transkribenten
+- Es besteht die Möglichkeit weitere Annotationsebenen zu ergänzen und ebenenunabhängig zu bearbeiten (multi-layer stand-off annotation)
+  
+### Formate
+- Zugang Online auf: http://korpling.german.hu-berlin.de/falko-suche/ (ANNIS3-Korpus-Suchtool)
+- Original-Textdokumente
+- Excel-Tabellen
+- PAULA-XML
+  
+### Lizenz
+- Creative Commons Namensnennung 3.0 Unported Lizenz
+- Info: https://creativecommons.org/licenses/by/3.0/deed.de
+
+### Beispiele
+
+	| tok      | Sie      | haben     | sich      | dazu     | gewöhnt   |
+	| ZH1      | Sie      | haben     | sich      | daran    | gewöhnt   |
+	| ZH1Diff  |          |           |           | CHA      |           |
+	| ZH1lemma | Sie/sie  | haben     | er/sie/es | daran    | gewöhnen  |
+	| ZH1pos   | PPER     | VAFIN     | PRF       | PAV      | VVPP      |
+  
+  
+### Einsatzmöglichkeiten 
+- Fehleranalyse (Abweichungen von der Zielsprache): Welche Fehler sind lernertypisch? Sind Fehler von der Muttersprache der Lerner abhängig?
+- Interlinguale kontrastive Untersuchungen: Vergleich von zielsprachlichen Strukturen (Grammatik) in der Zielsprache und der Muttersprache
+
 ## KiezDeutsch-Korpus (KiDko)
 
 ## ...
