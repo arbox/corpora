@@ -383,7 +383,7 @@ Gesamtkorpus besteht aus 6 Subkorpora (insgesamt 381.447 Tokens)
 - Sprachen: v.a. Deutsch und Türkisch
 
 #### 2.) thematische Klammer
-- Kiezdeutsch/„hood German“ (Rehbein/Schalowski/Wiese 2014) als Multiethnolekt urbaner Lebensräume
+- **Kiezdeutsch/„hood German“** (Rehbein/Schalowski/Wiese 2014) als Multiethnolekt urbaner Lebensräume
 - Zentrale Elemente: Code-Mixing und –Switching,  Abweichungen vom Standard auf phonetischer, morphosyntaktischer und lexikalischer Ebene
 
 ### Datum
