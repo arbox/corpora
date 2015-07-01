@@ -379,7 +379,7 @@ Gesamtkorpus besteht aus 6 Subkorpora (insgesamt 381.447 Tokens)
 
 #### 1.) Korpus 
 - spoken language corpus 
-- Informelle, spontansprachliche Gesprächsdaten von Berliner Jugendlichen nicht-deutscher Herkunftssprache (9. Klasse, 14-17 Jahren), Selbstaufnahmen im Freundeskreis
+- Informelle, spontansprachliche Gesprächsdaten von Berliner **Jugendlichen** nicht-deutscher Herkunftssprache (9. Klasse, 14-17 Jahren), **Selbstaufnahmen** im Freundeskreis
 - Sprachen: v.a. Deutsch und Türkisch
 
 #### 2.) thematische Klammer
@@ -393,12 +393,65 @@ Gesamtkorpus besteht aus 6 Subkorpora (insgesamt 381.447 Tokens)
 
 ### Korpusumfang
 
-Hauptkorpus:	~ 228.000 Token; rd. 48 h Aufnahmen
-	17 Sprecher/innen (10 männlich, 7 weiblich)
-Multiethnisches Wohngebiet (Berlin-Kreuzberg)
-Kontrollkorpus:	~ 105.000 Token; rd. 18 h Aufnahmen
-	6 Sprecher/innen (5 männlich, 1 weiblich)
-Monoethnisches Wohngebiet (Berlin-Hellersdorf) 
+| Korpus | Beschreibung  |
+| ------------- | ----------- |
+| Hauptkorpus      | ~ 228.000 Token; rd. 48 h Aufnahmen, |
+                   | 17 Sprecher/innen, Multiethnisches Wohngebiet (Berlin-Kreuzberg) |
+| Kontrollkorpus     | ~ 105.000 Token; rd. 18 h Aufnahme |	 	|
+		| 6 Sprecher/innen (5 männlich, 1 weiblich) |
+              	| Monoethnisches Wohngebiet (Berlin-Hellersdorf)|
+
+
+### Annotationsebenen
+
+| Kürzel | Beschreibung  |
+| ------------- | ----------- |
+| nv      | nonverbale Ebene |
+| v     | Transkriptionsebene (GAT2): Prosodische Merkmale (Betonungen u.a.) |
+| n	| Normalisierungsebene (Default-Suche) |
+| POS      | Wortartenebene |
+	   | - Erweiterung STTS für gesprochene Sprache (Partikel, Abbrüche) |
+	   | - Entwicklung eines verbesserten Taggers für informelles gesprochenes Deutsch |
+| Tr     | türkische Transkriptionsebene |
+| trnorm    | türkische Normalisierungsebene |
+| trdtwwue      |deutsche Übersetzung (Wort für Wort) |
+| trdtue     | deutsche Übersetzung (frei) |
+
+#### Metainformationen: 
+Sprecherkürzel, Geschlecht, Alter, Wohngebiet, Familiensprache, dominante Sprache
+
+### Formate
+wav (audio), EXMARaLDA-XML  (EXMARaLDA Partitur Editor als Darstellungs- und Transkriptionssystem)
+
+### Lizenz
+- COPYRIGHT: SFB 632 Informationsstruktur, Universität Potsdam
+- Zugang zu den EXMARaLDA-Transkripten über ANNIS
+- Zugang zu den Audiodateien aus rechtlichen Gründen nur vor Ort 
+
+### Beispiele
+
+- Suche nach türkischem Einzellemma: **tr=/lan/**
+- Suche nach POS-Tag-Abfolge: **POS=/ADV/ & POS=/ADJD/ & POS=/ADJD/ & #1 . #2 & #2 . #3**
+- Suche nach speziellem (Berliner) Kiezdeutsch-Phänomen (Koronalisierung): **n=“isch“**
+
+### Einsatzmöglichkeiten
+- Trainingskorpus für POS-Tagger gesprochener Sprache
+- Gesprächsforschung (?)
+- Soziolinguistik/Jugendsprache (auch kontrastiv)
+- Sprachkontaktforschung
+- Varietätenlinguistik/Ethnolektforschung
+- Gegenwärtiger Sprachwandel
+
+### Quellen
+
+#### Korpus
+- Wiese, H.;  Rehbein, I.; Schalowski, S.;  Freywald, U. & Mayr, K. (2010ff): KiDKo - Ein Korpus spontaner Unterhaltungen unter Jugendlichen im multiethnischen und monoethnischen urbanen Raum
+
+#### Literatur
+- Rehbein, I.; Schalowski, S. & Wiese, H. (2014): The KiezDeutsch Korpus (KiDKo) Release 1.0.
+In: Proceedings of the 9th International Conference on Language Resources and Evaluation (LREC), May 24-31, 2014. Reykjavik, Iceland. [verfügbar unter: http://www.sfb632.uni-potsdam.de/~rehbein/papers/lrec_camera-ready.pdf, Stand 1.7.2015]
+- Rehbein, I. & Schalowski, S. (2014): STTS goes Kiez ‐ Experiments on Annotating and Tagging Urban Youth Language.  Journal for Language Technology and Computational Linguistics 28: 199-227. [verfügbar unter: http://www.jlcl.org/2013_Heft1/8Rehbein.pdf, Stand 1.7.2015]
+- Rehbein, I. (2014): Wortartenannotation im Kiezdeutschkorpus (KiDKo 1.0) – Draft [verfügbar unter: http://www.kiezdeutschkorpus.de/files/kidko/downloads/POS-KiDKo.pdf, Stand 1.7.2015]
 
 
 ## Copyright
