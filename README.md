@@ -170,10 +170,10 @@ Training von Parsern, Linguistische Untersuchungen zu Schriftsprache im Internet
 
 ### Materialquelle
 
-DIRNDL =(D)iskurs-(I)nformations-(R)adio-(N)achrichten-(D)atenbank für (L)inguistische Analysen
+- DIRNDL =(D)iskurs-(I)nformations-(R)adio-(N)achrichten-(D)atenbank für (L)inguistische Analysen
 	
-stündlich gesendete Radio-Nachrichten von "Deutschland-Radio
-mündliche und schriftliche Versionen
+- stündlich gesendete Radio-Nachrichten von "Deutschland-Radio
+- mündliche und schriftliche Versionen
 
 ### Datum
 
@@ -182,40 +182,40 @@ mündliche und schriftliche Versionen
 
 ### Korpusumfang
 	
-ca. 50.000 Wörter
-Audiodateien im Umfang von ca. 5 Stunden (vom 25.- 27.03.2007)
-9 Sprecher (5 m, 4 w)
-schriftliche Manuskripte, bestehend aus insgesamt 3221 Sätzen
+- ca. 50.000 Wörter
+- Audiodateien im Umfang von ca. 5 Stunden (vom 25.- 27.03.2007)
+- 9 Sprecher (5 m, 4 w)
+- schriftliche Manuskripte, bestehend aus insgesamt 3221 Sätzen
 
 ### Annotationsebenen
 
 1. release (DIRNDL)
-schriftlich: Syntax mithilfe des XLE Parsers, Informationsstatus (Grad an Gegebenheit: gegebene o. neue Information)(automatisch)
-mündlich: pitch-Akzente und prosodische Phrasengrenzen mithilfe von GToBI (manuell)
+- schriftlich: Syntax mithilfe des XLE Parsers, Informationsstatus (Grad an Gegebenheit: gegebene o. neue Information)(automatisch)
+- mündlich: pitch-Akzente und prosodische Phrasengrenzen mithilfe von GToBI (manuell)
 
-außerdem: Verbindung zwischen mündlich und schriftlich (mithilfe von relational
-database management system PostgreSQL)
+- außerdem: Verbindung zwischen mündlich und schriftlich (mithilfe von relational
+- database management system PostgreSQL)
 --> Vergleich zwischen einzelnen Ebenen, z.B. Zusammenhang zwischen Prosodie und Syntax 
 	
 2. release (extended version: DIRNDL anaphora)
-zusätzlich coreference, part-of-speech und morphologische tags, Dependenz, Named-Entities
+- zusätzlich coreference, part-of-speech und morphologische tags, Dependenz, Named-Entities
 
 ### Formate
 
-TIGER-XML mithilfe von TIGERRegistry
-GrAF XML
-konvertierbar in verschiedene tool input-Formate. z.B. PAULA XML
+- TIGER-XML mithilfe von TIGERRegistry
+- GrAF XML
+- konvertierbar in verschiedene tool input-Formate. z.B. PAULA XML
 	
-verfügbar in Tabellenformaten
-SemEval
-CoNLL
+- verfügbar in Tabellenformaten
+- SemEval
+- CoNLL
 
 ### Lizenz
 
 frei verfügbar unter http://www.ims.uni-stuttgart.de/data/dirndl
 
 ### Beispiele
-
+```
 	#begin document dlf-nachrichten-200703250000 (part 000)
 	dlf-nachrichten-200703250000  0  1   1  Der             der             ART     case=nom|number=sg|gender=masc            *        2  NK  (VROOT(S(NP*    |NONE|     NONE  -          (R-UNUSED-KNOWN$2    (1
 	dlf-nachrichten-200703250000  0  1   2  Iran            iran            NE      case=nom|number=sg|gender=masc            *        3  SB             *)   |H*L|      NONE  (L-NEW$1)  R-UNUSED-KNOWN$2)    1)
@@ -232,12 +232,12 @@ frei verfügbar unter http://www.ims.uni-stuttgart.de/data/dirndl
 	dlf-nachrichten-200703250000  0  3   6  ,               --              $,     _                                          *        3  --             *     N/A         N/A   -  
 
 	...                           -                                        - 
-
+```
 ### Einsatzmöglichkeiten
 
-Evaluation von automatischen Koreferenz- und Bridging-Lösungen
-Bedeutungsunterschiede aufgrund von Prosodie (Informationsstatus)
-Trainingskorpus für automatisches Prosodie-Annotationen
+- Evaluation von automatischen Koreferenz- und Bridging-Lösungen
+- Bedeutungsunterschiede aufgrund von Prosodie (Informationsstatus)
+- Trainingskorpus für automatisches Prosodie-Annotationen
 	
 ## ...
 
