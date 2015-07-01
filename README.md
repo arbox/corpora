@@ -375,7 +375,31 @@ Gesamtkorpus besteht aus 6 Subkorpora (insgesamt 381.447 Tokens)
 
 ## KiezDeutsch-Korpus (KiDko)
 
-## ...
+### Materialquelle
+
+#### 1.) Korpus 
+- spoken language corpus 
+- Informelle, spontansprachliche Gesprächsdaten von Berliner Jugendlichen nicht-deutscher Herkunftssprache (9. Klasse, 14-17 Jahren), Selbstaufnahmen im Freundeskreis
+- Sprachen: v.a. Deutsch und Türkisch
+
+#### 2.) thematische Klammer
+- Kiezdeutsch/„hood German“ (Rehbein/Schalowski/Wiese 2014) als Multiethnolekt urbaner Lebensräume
+- Zentrale Elemente: Code-Mixing und –Switching,  Abweichungen vom Standard auf phonetischer, morphosyntaktischer und lexikalischer Ebene
+
+### Datum
+- ab 2008: Beginn Korpusaufbau (Audioaufnahmen, Transkription, POS-Tagging)
+- KiDKo Version 1.0: Frühling 2014
+- Aktuelle Projektphase: Syntaktische Aufbereitung (Annotation topologischer Felder)
+
+### Korpusumfang
+
+Hauptkorpus:	~ 228.000 Token; rd. 48 h Aufnahmen
+	17 Sprecher/innen (10 männlich, 7 weiblich)
+Multiethnisches Wohngebiet (Berlin-Kreuzberg)
+Kontrollkorpus:	~ 105.000 Token; rd. 18 h Aufnahmen
+	6 Sprecher/innen (5 männlich, 1 weiblich)
+Monoethnisches Wohngebiet (Berlin-Hellersdorf) 
+
 
 ## Copyright
 ...
