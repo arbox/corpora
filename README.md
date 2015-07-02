@@ -192,7 +192,7 @@ Video- und Audioaufnahmen: 448 multimodale Aufnahmen ('Sessions') von 224 Versuc
 * Datennomenklatur: <Type of Recording><Session Number><_><Technical scenario><Primary task><Recording Channel><_><Turn numbering><_><Speaker ID>.<extension>
 Type of Recording:
 b : biometric data
-w : Wizard-of-Oz    
+w : Wizard-of-Oz
 d : demo session
 p : test session
 v : evaluation session
