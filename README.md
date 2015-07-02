@@ -110,27 +110,27 @@ Stand 15.09.2014
 ### Materialquelle
  spontansprachliche, manuell transliterierte Dialoge
  
- ### Datum
- Stand September 2000
+### Datum
+Stand September 2000
  
- ### Korpusumfang
- - ca. 38.000 Sätze bzw. 360.000 Wörter
+### Korpusumfang
+- ca. 38.000 Sätze bzw. 360.000 Wörter
  
- ### Annotationsebenen
+### Annotationsebenen
 - lexikalische Ebene
 - phrasale Ebene
 - Ebene der topologischen Felder
 - Satzebene
  
- ### Formate
- - Negra Export Format (ps)
- - XML Format
- - Penn Treebank Format
+### Formate
+- Negra Export Format (ps)
+- XML Format
+- Penn Treebank Format
  
- ### Beispiele
+### Beispiele
  
  
- ## Einsatzmöglichkeiten
+### Einsatzmöglichkeiten
  linguistische Forschung
 
 ## DWDS Kernkorpus des 20./21. Jahrhunderts
