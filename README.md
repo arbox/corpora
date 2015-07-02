@@ -111,10 +111,10 @@ Stand 15.09.2014
  spontansprachliche, manuell transliterierte Dialoge
  
  ### Datum
- September 2000
+ Stand September 2000
  
  ### Korpusumfang
- ca. 38.000 Sätze bzw. 360.000 Wörter
+ - ca. 38.000 Sätze bzw. 360.000 Wörter
  
  ### Annotationsebenen
 - lexikalische Ebene
@@ -128,7 +128,9 @@ Stand 15.09.2014
  - Penn Treebank Format
  
  ### Beispiele
- ### Einsatzmöglichkeiten
+ 
+ 
+ ## Einsatzmöglichkeiten
  linguistische Forschung
 
 ## DWDS Kernkorpus des 20./21. Jahrhunderts
