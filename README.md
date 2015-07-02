@@ -440,6 +440,7 @@ wav (audio), EXMARaLDA-XML  (EXMARaLDA Partitur Editor als Darstellungs- und Tra
 
 - Suche nach speziellem (Berliner) Kiezdeutsch-Phänomen (Koronalisierung): **n=“isch“**
 ![Koronalisierung](/kidco3.jpg)
+
  Quelle: Rehbein/Schalowski/Wiese (2014)
 
 ### Einsatzmöglichkeiten
