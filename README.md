@@ -436,11 +436,15 @@ wav (audio), EXMARaLDA-XML  (EXMARaLDA Partitur Editor als Darstellungs- und Tra
 
 - Suche nach POS-Tag-Abfolge: **POS=/ADV/ & POS=/ADJD/ & POS=/ADJD/ & #1 . #2 & #2 . #3**
 
-![POS-Tag-Abfolge](/kidco1.jpg)
+![POS-Tag-Abfolge](/kidco2.jpg)
 
 - Suche nach speziellem (Berliner) Kiezdeutsch-Phänomen (Koronalisierung): **n=“isch“**
+![Koronalisierung](/kidco3.jpg)
+ Quelle: Rehbein/Schalowski/Wiese (2014)
 
 ### Einsatzmöglichkeiten
+- *Nur bei Volltextrecherche*: Gesprächsforschung
+- *Nur bei Zugang zu kompletten Audiofiles*: Intonationsforschung
 - Trainingskorpus für POS-Tagger gesprochener Sprache
 - Gesprächsforschung (?)
 - Soziolinguistik/Jugendsprache (auch kontrastiv)
