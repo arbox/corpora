@@ -425,7 +425,7 @@ wav (audio), EXMARaLDA-XML  (EXMARaLDA Partitur Editor als Darstellungs- und Tra
 
 ### Lizenz
 - COPYRIGHT: SFB 632 Informationsstruktur, Universität Potsdam
-- Zugang zu den EXMARaLDA-Transkripten über ANNIS
+- Zugang zu den EXMARaLDA-Transkripten über ANNIS (Login-Daten auf Anfrage beim SFB 632: http://www.sfb632.uni-potsdam.de/b6/license.php) 
 - Zugang zu den Audiodateien aus rechtlichen Gründen nur vor Ort 
 
 ### Beispiele
