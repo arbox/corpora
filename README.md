@@ -164,7 +164,100 @@ WPD   Band 2003 sogar möglich eine Tour durch <B>Japan</> zu machen, wo sie ebe
 ### Einsatzmöglichkeiten
 Training von Parsern, Linguistische Untersuchungen zu Schriftsprache im Internet, empirische Grundlage für verschiedene linguistische Forschungsarbeiten
 
+
 ## SmartKom
+
+### Materialquelle
+Video- und Audioaufnahmen: 448 multimodale Aufnahmen ('Sessions') von 224 Versuchspersonen, 1 Session = ca. 4,5 min
+
+### Datum
+* Start: 01.09.1999
+* Abgeschlossen: 30.09.2003
+* letzte Aktualisierung: 29.02.2012
+	
+### Korpusumfang
+* SmartKom Public / SKP 2.2 - 96 Sprecher - 172 Aufnahme-Sessions - Szenario: Public - Domänen: 'Cinema', 'Fax' (Hauptanwendung) und 'Restaurant', 'Telephone', 'Email' (Nebenanwendung)
+* SmartKom Mobil / SKM 1.2 - 73 Sprecher - 146 Aufnahme-Sessions - Szenario: Mobil - Domänen: 'Sehenswürdigkeiten', 'Navigation' (Hauptanwendung) und 'Telephon', 'Parkplatzsuche' (Nebenanwendung)
+* SmartKom Home / SKH 1.1 - 65 Sprecher - 130 Aufnahme-Sessions - Szenario: Home - Domänen: 'Fernsehen', 'Video' (Hauptanwendung) und 'Terminplanung', 'Musikauswahl' (Nebenanwendung)
+* SmartKom Audio / SKAUDIO 1.1 - Sonderausgabe aller Audio-Kanäle der SmartKom Korpora - 224 Sprecher - 448 Aufnahme-Sessions - Szenario: Public, Home, Mobil
+
+### Annotationsebenen
+* Transliteration (orthographische und prosodische Transkription, automatische Validation)
+* 2D Gestik (Emotion- und Gestik-Labeling)
+* User-State
+* Turn-Segmentierung
+
+### Formate
+* Audio- und Videoformate, verfügbar auf DVD
+* Datennomenklatur: <Type of Recording><Session Number><_><Technical scenario><Primary task><Recording Channel><_><Turn numbering><_><Speaker ID>.<extension>
+Type of Recording:
+b : biometric data
+w : Wizard-of-Oz    
+d : demo session
+p : test session
+v : evaluation session
+Technical scenario:
+p : Public
+m : Mobil
+h : Home
+Primary task:
+k : cinema
+t : touristic planing
+f : TV guide
+r : restaurant
+n : navigation
+v : VCR programing
+m : music jukebox
+a : phone
+x : fax
+Recording channel:
+a   : clip-on microphone, channel 1 Sennheiser ME104 
+b   : clip-on microphone, channel 2 Sennheiser ME104 
+h   : headset microphone Sennheiser ME104 
+1-4 : microphone array 4 channels Sennheiser ME104
+d   : directional microphone Sennheiser ME 66
+w   : system output 
+p   : playback backround noise front 
+q   : playback background noise back
+t   : tableau coordinates 
+s   : SIVIT coordinates
+i   : infrared video of interaction area
+m   : front capture camera
+l   : left lateral capture 
+o   : system display capture
+g   : synchronized video streams 
+Extentions:
+.ags  BPF represented as an annotation graph (XML)
+.avi  video file AVI (channels g,o)
+.ges  gestic labeling file
+.mov  video file DV (channels i,l,m)
+.par  BAS Partitur Format file (BPF)
+.qt   QuickTime file (master frame file)
+.rpr  recording session protocol
+.spr  speaker protocol file
+.trl  transliteration
+.trp  user state labeling file ('prosody')
+.ush  user state labeling file ('holistic')
+.usm  user state labeling file ('mimic')
+.wav  RIFF audio file (channels 1,2,3,4,a,b,d,h,p,q,w)
+
+### Lizenz
+COPYRIGHT Universität München
+	
+### Beispiele
+- SmartKom Public Aufnahme (AVI, 320MB) - w406_pxg: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/w406_pxg.avi
+  SK Public, Vierfachansicht (G track): Gesicht, Seite, System-Output + SIVIT, SIVIT (Infrarot), Domain: Hotel, Fax, Telefon, Restaurant, Navigation.
+- Transkript - w406_px.trl: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/w406_px.trl
+- Recording Protocol - w406_px.rpr: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/w406_px.rpr
+- Speaker Protocol - AJK.spr: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/AJK.spr
+
+### Einsatzmöglichkeiten
+* Untersuchung der Mensch-Maschine-Interaktion
+* Auf dem Korpus-Basis von SmartKom wurden 3 Multimodale Dialogsysteme aufgebaut:
+- SmartKom-Public: Multimodale Kommunikationszelle, Informationskiosk
+- SmartKom-Mobil: Mobiler Kommunikationsassistent
+- SmartKom-Home: Intuitives Arbeiten mit dem Computer
+
 
 ## DIRNDL-Korpus
 
