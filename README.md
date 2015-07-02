@@ -431,7 +431,13 @@ wav (audio), EXMARaLDA-XML  (EXMARaLDA Partitur Editor als Darstellungs- und Tra
 ### Beispiele
 
 - Suche nach türkischem Einzellemma: **tr=/lan/**
+
+![Einzellemma](/kidco1.jpg)
+
 - Suche nach POS-Tag-Abfolge: **POS=/ADV/ & POS=/ADJD/ & POS=/ADJD/ & #1 . #2 & #2 . #3**
+
+![POS-Tag-Abfolge](/kidco1.jpg)
+
 - Suche nach speziellem (Berliner) Kiezdeutsch-Phänomen (Koronalisierung): **n=“isch“**
 
 ### Einsatzmöglichkeiten
