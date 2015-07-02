@@ -446,7 +446,6 @@ wav (audio), EXMARaLDA-XML  (EXMARaLDA Partitur Editor als Darstellungs- und Tra
 - *Nur bei Volltextrecherche*: Gesprächsforschung
 - *Nur bei Zugang zu kompletten Audiofiles*: Intonationsforschung
 - Trainingskorpus für POS-Tagger gesprochener Sprache
-- Gesprächsforschung (?)
 - Soziolinguistik/Jugendsprache (auch kontrastiv)
 - Sprachkontaktforschung
 - Varietätenlinguistik/Ethnolektforschung
