@@ -189,7 +189,6 @@ Video- und Audioaufnahmen: 448 multimodale Aufnahmen ('Sessions') von 224 Versuc
 
 ### Formate
 * Audio- und Videoformate, verfügbar auf DVD
-* Datennomenklatur: <Type of Recording><Session Number><_><Technical scenario><Primary task><Recording Channel><_><Turn numbering><_><Speaker ID>.<extension>
 
 ### Lizenz
 COPYRIGHT Universität München
