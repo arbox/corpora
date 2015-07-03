@@ -164,7 +164,49 @@ WPD   Band 2003 sogar möglich eine Tour durch <B>Japan</> zu machen, wo sie ebe
 ### Einsatzmöglichkeiten
 Training von Parsern, Linguistische Untersuchungen zu Schriftsprache im Internet, empirische Grundlage für verschiedene linguistische Forschungsarbeiten
 
+
 ## SmartKom
+
+### Materialquelle
+Video- und Audioaufnahmen: 448 multimodale Aufnahmen ('Sessions') von 224 Versuchspersonen, 1 Session = ca. 4,5 min
+
+### Datum
+* Start: 01.09.1999
+* Abgeschlossen: 30.09.2003
+* letzte Aktualisierung: 29.02.2012
+	
+### Korpusumfang
+* SmartKom Public / SKP 2.2 - 96 Sprecher - 172 Aufnahme-Sessions - Szenario: Public - Domänen: 'Cinema', 'Fax' (Hauptanwendung) und 'Restaurant', 'Telephone', 'Email' (Nebenanwendung)
+* SmartKom Mobil / SKM 1.2 - 73 Sprecher - 146 Aufnahme-Sessions - Szenario: Mobil - Domänen: 'Sehenswürdigkeiten', 'Navigation' (Hauptanwendung) und 'Telephon', 'Parkplatzsuche' (Nebenanwendung)
+* SmartKom Home / SKH 1.1 - 65 Sprecher - 130 Aufnahme-Sessions - Szenario: Home - Domänen: 'Fernsehen', 'Video' (Hauptanwendung) und 'Terminplanung', 'Musikauswahl' (Nebenanwendung)
+* SmartKom Audio / SKAUDIO 1.1 - Sonderausgabe aller Audio-Kanäle der SmartKom Korpora - 224 Sprecher - 448 Aufnahme-Sessions - Szenario: Public, Home, Mobil
+
+### Annotationsebenen
+* Transliteration (orthographische und prosodische Transkription, automatische Validation)
+* 2D Gestik (Emotion- und Gestik-Labeling)
+* User-State
+* Turn-Segmentierung
+
+### Formate
+* Audio- und Videoformate, verfügbar auf DVD
+
+### Lizenz
+COPYRIGHT Universität München
+	
+### Beispiele
+- SmartKom Public Aufnahme (AVI, 320MB) - w406_pxg: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/w406_pxg.avi
+  SK Public, Vierfachansicht (G track): Gesicht, Seite, System-Output + SIVIT, SIVIT (Infrarot), Domain: Hotel, Fax, Telefon, Restaurant, Navigation.
+- Transkript - w406_px.trl: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/w406_px.trl
+- Recording Protocol - w406_px.rpr: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/w406_px.rpr
+- Speaker Protocol - AJK.spr: http://www.bas.uni-muenchen.de/forschung/Bas/BasSKVIDEO/AJK.spr
+
+### Einsatzmöglichkeiten
+* Untersuchung der Mensch-Maschine-Interaktion
+* Auf dem Korpus-Basis von SmartKom wurden 3 Multimodale Dialogsysteme aufgebaut:
+- SmartKom-Public: Multimodale Kommunikationszelle, Informationskiosk
+- SmartKom-Mobil: Mobiler Kommunikationsassistent
+- SmartKom-Home: Intuitives Arbeiten mit dem Computer
+
 
 ## DIRNDL-Korpus
 
