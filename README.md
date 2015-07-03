@@ -579,4 +579,3 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
 
 ## Copyright
 ...
-
