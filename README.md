@@ -239,13 +239,11 @@ frei verfügbar unter http://www.ims.uni-stuttgart.de/data/dirndl
 - Bedeutungsunterschiede aufgrund von Prosodie (Informationsstatus)
 - Trainingskorpus für automatisches Prosodie-Annotationen
 	
-## Elizitierte Konfliktgespräche - EK 
-(Datenbanken für Gesprochenes Deutsch)
-
+## Elizitierte Konfliktgespräche - EK (DGD)
 ### Materialquelle
- Spontansprache zwischen Müttern und ihren Töchtern
+ Aufnahmen von Konfliktgesprächen zwischen Müttern und ihren Töchtern
 ### Datum
-15.3.1988-30.61992
+15.3.1988-30.6.1992
 ### Korpusumfang
 138 Aufnahmen von 214 Sprecherinnen, Gesamtdauer 12h 23min
 ### Annotationsebenen
@@ -257,9 +255,7 @@ nach einmaliger Registrierung webbasierter Zugriff auf ausgewählte Teile der Sa
 ### Beispiele
 http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=EB1B4C7CC2EA5C6ECF2E9BDEBB72691C&v_doctype=e&v_corpus=EK--&v_doc_id=EK--_E_00001
 ### Einsatzmöglichkeiten
-Diskursanalyse
-Gesprächsforschung
-pädagogischer Kontext
+Diskursanalyse,Gesprächsforschung,pädagogischer Kontext
 
 ## ...
 
