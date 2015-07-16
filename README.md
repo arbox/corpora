@@ -28,7 +28,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Gulchehra Kahhorova: SmartKom
  - Melanie Kleefisch: DIRNDL-Korpus
  - Nikola Koczuba:
- - Christina Lang: Jugenkommunikation (DGD)
+ - Christina Lang: OS-Korpus (Deutsche Mundarten: ehemalige deutsche Ostgebiete)
  - Stephan Lehmler: Alcohol Language Corpus - ALC
  - Sarah Schneider: TIGER-Baumbank
  - Ursula Schultze: Deutscher Wortschatz
