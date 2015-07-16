@@ -590,7 +590,7 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
 ### Korpusumfang
   981 Aufnahmen (Gesamtdauer: 460 Stunden, 52 Minuten), einzelne Aufnahmen: 5 Minuten, 19 Sekunden bis 1 Stunde, 16 Minuten 
 
-  280 Transkriptionen (an der alten Orthografie orientierte hochsprachliche Übertragung)
+  280 Transkriptionen (mit dem Ton synchronisiert)
   
   Zusatzmaterial: 
   - Transkriptionskonventionen
@@ -601,7 +601,7 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
   - Listen der Berufe der Sprecher
 
 ### Annotationsebenen
-  - an alter Ortografie orientierte hochsprachliche Übertragung
+  - Transkription: an alter Ortografie orientierte hochsprachliche Übertragung
   - Erläuterungen der Transkribenten
   - Lemmatisierung
   - POS-Tagging
