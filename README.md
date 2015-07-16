@@ -577,5 +577,42 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
 - Rehbein, I. (2014): Wortartenannotation im Kiezdeutschkorpus (KiDKo 1.0) – Draft [verfügbar unter: http://www.kiezdeutschkorpus.de/files/kidko/downloads/POS-KiDKo.pdf, Stand 1.7.2015]
 
 
+## Deutsche Mundarten: ehemalige deutsche Ostgebiete
+
+### Materialquelle
+  - Geplante Tonbandaufnahmen ostdeutscher Mundarten (Arten: Erzählung, Vortrag, Vorlesen, Standardtext) in den jeweiligen Wohnungen der Sprecher
+  - Realisierung: Face-to-face
+  - 987 ältere Sprecher ost- und südostdeutscher Dialekte, die den Sprachstand vor 1945 repräsentieren
+  
+### Datum
+  Tonbandaufnahmen von 1962-1965
+  
+### Korpusumfang
+  981 Aufnahmen (Gesamtdauer: 460 Stunden, 52 Minuten)
+  280 Transkriptionen (an der alten Orthografie orientierte hochsprachliche Übertragung)
+  Zusatzmaterial: 
+  - Transkriptionskonventionen
+  - Themenliste
+  - Liste der sprachlichen Besonderheiten
+  - Wortlisten
+  - Lemmalisten
+  - Listen der Berufe der Sprecher
+
+### Annotationsebenen
+  | Kürzel | Beschreibung  |
+| ------------- | ----------- |
+| ANT_01      | nonverbale Ebene |
+
+### Formate
+  BAS Partitur Format,TextGrid, Emu hierarchical database files, Metadaten: SpeechDat, Audio: WAVE RIFF 44100Hz 16bit
+### Lizenz
+  COPYRIGHT University of Munich
+### Beispiele
+```
+z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf
+```
+### Einsatzmöglichkeiten
+  z.B. Automatische Erfassung des Sprecherzustandes; Phonetische oder psycholinguistische Studien
+
 ## Copyright
 ...
