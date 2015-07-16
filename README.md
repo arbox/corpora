@@ -589,7 +589,9 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
   
 ### Korpusumfang
   981 Aufnahmen (Gesamtdauer: 460 Stunden, 52 Minuten), einzelne Aufnahmen: 5 Minuten, 19 Sekunden bis 1 Stunde, 16 Minuten 
+
   280 Transkriptionen (an der alten Orthografie orientierte hochsprachliche Übertragung)
+  
   Zusatzmaterial: 
   - Transkriptionskonventionen
   - Themenliste
@@ -606,11 +608,13 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
 
 ### Formate
   Audio: RIFF-WAVE RIFF (PCM) 44.100 Hz 16 Bit
+  
   Transkripte: XML (UTF-8)
+  
   Zusatzmaterial: PDF (Ansi), TXT (UTF-8)
   
 ### Lizenz
-  COPYRIGHT University of Munich
+  nach Anmeldung frei zugänglich unter dgd.ids-mannheim.de
 ### Beispiele
 ```
 z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf
