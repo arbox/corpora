@@ -247,18 +247,22 @@ frei verfügbar unter http://www.ims.uni-stuttgart.de/data/dirndl
 ### Korpusumfang
 - 138 Aufnahmen von 214 Sprecherinnen, Gesamtdauer 12h 23min
 - 138 Transkripte
+
 ### Annotationsebenen
 - orthographische Transkription (Partiturschreibweise) mit zusätzlichen Notationen
 - Metadaten
 - Themenliste
+-
 ### Formate
 - Audio: RIFF-WAVE (PCM) 44.100 Hz 16Bit
 - Transkripte: PDF (UTF-8)
+
 ###Lizenz
 nach einmaliger Registrierung webbasierter Zugriff auf ausgewählte Teile der Sammlung des Archivs für Gesprochenes Deutsch (AGD) für die Verwendung in Forschung und Lehre
 http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.welcome
 ### Beispiele
 http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=EB1B4C7CC2EA5C6ECF2E9BDEBB72691C&v_doctype=e&v_corpus=EK--&v_doc_id=EK--_E_00001
+
 ### Einsatzmöglichkeiten
 - Diskurs-/Gesprächsanalyse
 - pädagogischer Kontext
