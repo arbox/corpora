@@ -608,12 +608,17 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
 
 ### Formate
 Audio: RIFF-WAVE RIFF (PCM) 44.100 Hz 16 Bit
+
 Transkripte: XML (UTF-8)
+
 Zusatzmaterial: PDF (Ansi), TXT (UTF-8)
   
 ### Lizenz
   nach Anmeldung frei zugänglich unter http://dgd.ids-mannheim.de 
 ### Beispiele
+http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=91179580965177C175A8A4097C4104A9&v_doctype=t&v_corpus=OS--&v_doc_id=OS--_E_00001_SE_01_T_01
+
+http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=91179580965177C175A8A4097C4104A9&v_doctype=z&v_corpus=OS--&v_doc_id=OS--_Z_07_Lemmaliste_Frequenz.txt
 
 ### Einsatzmöglichkeiten
   z.B. Automatische Erfassung des Sprecherzustandes; Phonetische oder psycholinguistische Studien
