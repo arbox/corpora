@@ -577,18 +577,18 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
 - Rehbein, I. (2014): Wortartenannotation im Kiezdeutschkorpus (KiDKo 1.0) – Draft [verfügbar unter: http://www.kiezdeutschkorpus.de/files/kidko/downloads/POS-KiDKo.pdf, Stand 1.7.2015]
 
 
-## Deutsche Mundarten: ehemalige deutsche Ostgebiete
+## Deutsche Mundarten: ehemalige deutsche Ostgebiete (OS)
 
 ### Materialquelle
   - Geplante Tonbandaufnahmen ostdeutscher Mundarten (Arten: Erzählung, Vortrag, Vorlesen, Standardtext) in den jeweiligen Wohnungen der Sprecher
   - Realisierung: Face-to-face
-  - 987 ältere Sprecher ost- und südostdeutscher Dialekte, die den Sprachstand vor 1945 repräsentieren
+  - 987 ältere Sprecher ost- und südostdeutscher Dialekte (Übersiedler), die den Sprachstand vor 1945 repräsentieren
   
 ### Datum
   Tonbandaufnahmen von 1962-1965
   
 ### Korpusumfang
-  981 Aufnahmen (Gesamtdauer: 460 Stunden, 52 Minuten)
+  981 Aufnahmen (Gesamtdauer: 460 Stunden, 52 Minuten), einzelne Aufnahmen: 5 Minuten, 19 Sekunden bis 1 Stunde, 16 Minuten 
   280 Transkriptionen (an der alten Orthografie orientierte hochsprachliche Übertragung)
   Zusatzmaterial: 
   - Transkriptionskonventionen
@@ -599,12 +599,16 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
   - Listen der Berufe der Sprecher
 
 ### Annotationsebenen
-  | Kürzel | Beschreibung  |
-| ------------- | ----------- |
-| ANT_01      | nonverbale Ebene |
+  - an alter Ortografie orientierte hochsprachliche Übertragung
+  - Erläuterungen der Transkribenten
+  - Lemmatisierung
+  - POS-Tagging
 
 ### Formate
-  BAS Partitur Format,TextGrid, Emu hierarchical database files, Metadaten: SpeechDat, Audio: WAVE RIFF 44100Hz 16bit
+  Audio: RIFF-WAVE RIFF (PCM) 44.100 Hz 16 Bit
+  Transkripte: XML (UTF-8)
+  Zusatzmaterial: PDF (Ansi), TXT (UTF-8)
+  
 ### Lizenz
   COPYRIGHT University of Munich
 ### Beispiele
