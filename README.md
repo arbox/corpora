@@ -46,7 +46,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	- Transkribierte Texte	ca. 05%
 
 ### Datum
-	- laufendes Projekt
+laufendes Projekt
 
 ### Korpusumfang
 	- Tokens: 122.816.010
@@ -59,10 +59,10 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	- Syntax (Dependenzparser SynCoP)
 
 ### Formate
-	- XML, nach TEI-Richtlinien
+XML, nach TEI-Richtlinien
 
 ### Lizenz
-	- Nutzungsvereinbarung mit Verlagen und privaten Textgebern, d.h Registrierung für einige Texte notwendig	
+Nutzungsvereinbarung mit Verlagen und privaten Textgebern, d.h Registrierung für einige Texte notwendig	
 
 ### Beispiele
 ```
@@ -83,11 +83,11 @@ Sie wurde erst von dem Begründer der modernen _&_&Linguistik&_&_ gemacht , dem 
 Ab 1971 studierte er in Paris vergleichende Literatur und _&_&Linguistik&_&_ an der École des langues orientales sowie Komposition am Pariser Konservatorium , wo er 1977 den Kompositionspreis von Olivier Messiaens Klasse erhielt .
 ```
 ### Einsatzmöglichkeiten
-	- Wörterbuchanalyse (Bedeutung, Etymologie, Synonymie,...)
-	- Belegermittlung	
-	- Statistische Auswertungen:
- 		- DWDS-Wortprofil: syntaktische Relationen
- 		- DWDS-Wortverlaufskurve: zeitlicher Verlauf der Vorkommenshäufigkeit, auch nach Textsorten
+Wörterbuchanalyse (Bedeutung, Etymologie, Synonymie,...)
+Belegermittlung	
+Statistische Auswertungen:
+	- DWDS-Wortprofil: syntaktische Relationen
+	- DWDS-Wortverlaufskurve: zeitlicher Verlauf der Vorkommenshäufigkeit, auch nach Textsorten
 
 ## Tüba-D/Z
 
