@@ -38,6 +38,34 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## DWDS-Kernkorpus
 
+### Materialquelle
+	- Zeitung				ca. 27%
+	- Belletristik			ca. 26%
+	- Wissenschaft			ca. 22%
+	- Gebrauchsliteratur	ca. 20%
+	- Transkribierte Texte	ca. 05%
+
+### Datum
+	- %TODO
+### Korpusumfang
+	- Tokens: 122.816.010
+	- Tokens ohne Zahlen und Satzzeichen: 100.600.993
+	- Types: 2.224.542
+	- Dokumente: 79.830
+
+### Annotationsebenen
+	- Morphologie (TAGH-Morphologie)
+	- 
+  z.B. Morphologie, Syntax
+### Formate
+	  - XML, nach TEI-RIchtlinien
+### Lizenz
+  z.B. GPL 3
+### Beispiele
+  z.B. `An/APPR der/ART Oder/NE wurde/VAFIN er/PPER dann/ADV verwendet/VVPP ./$.`
+### Einsatzmöglichkeiten
+  z.B. Trainieren von statistischen syntaktischen Parsern
+
 ## Tüba-D/Z
 
 ### Materialquelle
