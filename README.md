@@ -46,7 +46,8 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	- Transkribierte Texte	ca. 05%
 
 ### Datum
-	- %TODO
+	- laufendes Projekt
+
 ### Korpusumfang
 	- Tokens: 122.816.010
 	- Tokens ohne Zahlen und Satzzeichen: 100.600.993
@@ -54,17 +55,38 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	- Dokumente: 79.830
 
 ### Annotationsebenen
-	- Morphologie (TAGH-Morphologie)
-	- 
-  z.B. Morphologie, Syntax
+	- Morphologie (TAGH-Morphologie, DWDS-Eigennamenerkenner)
+	- Syntax (Dependenzparser SynCoP)
+
 ### Formate
-	  - XML, nach TEI-RIchtlinien
+	- XML, nach TEI-Richtlinien
+
 ### Lizenz
-  z.B. GPL 3
+	- Nutzungsvereinbarung mit Verlagen und privaten Textgebern, d.h Registrierung für einige Texte notwendig	
+
 ### Beispiele
-  z.B. `An/APPR der/ART Oder/NE wurde/VAFIN er/PPER dann/ADV verwendet/VVPP ./$.`
+Abfrage: Linguistik
+Filter aktiv: 
+Sortierung: desc_date
+
+Trefferanzahl: 136 Sätze, davon anzeigbar: 115 Sätze
+
+
+1.)	1999	Gebrauchsliteratur	Schwanitz, Dietrich, Bildung, Frankfurt a.M.: Eichborn 1999, S. 356
+
+Sie wurde erst von dem Begründer der modernen _&_&Linguistik&_&_ gemacht , dem Schweizer Ferdinand de Saussure .
+
+
+2.)	1998	Wissenschaft	Fath, Rolf, Reclams Lexikon der Opernwelt Band 2, Stuttgart: Reclam 1998, S. 3078
+
+Ab 1971 studierte er in Paris vergleichende Literatur und _&_&Linguistik&_&_ an der École des langues orientales sowie Komposition am Pariser Konservatorium , wo er 1977 den Kompositionspreis von Olivier Messiaens Klasse erhielt .
+
 ### Einsatzmöglichkeiten
-  z.B. Trainieren von statistischen syntaktischen Parsern
+	- Wörterbuchanalyse (Bedeutung, Etymologie, Synonymie,...)
+	- Belegermittlung	
+	- Statistische Auswertungen:
+ 		- DWDS-Wortprofil: syntaktische Relationen
+ 		- DWDS-Wortverlaufskurve: zeitlicher Verlauf der Vorkommenshäufigkeit, auch nach Textsorten
 
 ## Tüba-D/Z
 
