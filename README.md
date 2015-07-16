@@ -65,6 +65,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 	- Nutzungsvereinbarung mit Verlagen und privaten Textgebern, d.h Registrierung für einige Texte notwendig	
 
 ### Beispiele
+```
 Abfrage: Linguistik
 Filter aktiv: 
 Sortierung: desc_date
@@ -80,7 +81,7 @@ Sie wurde erst von dem Begründer der modernen _&_&Linguistik&_&_ gemacht , dem 
 2.)	1998	Wissenschaft	Fath, Rolf, Reclams Lexikon der Opernwelt Band 2, Stuttgart: Reclam 1998, S. 3078
 
 Ab 1971 studierte er in Paris vergleichende Literatur und _&_&Linguistik&_&_ an der École des langues orientales sowie Komposition am Pariser Konservatorium , wo er 1977 den Kompositionspreis von Olivier Messiaens Klasse erhielt .
-
+```
 ### Einsatzmöglichkeiten
 	- Wörterbuchanalyse (Bedeutung, Etymologie, Synonymie,...)
 	- Belegermittlung	
