@@ -607,18 +607,14 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
   - POS-Tagging
 
 ### Formate
-  Audio: RIFF-WAVE RIFF (PCM) 44.100 Hz 16 Bit
-  
-  Transkripte: XML (UTF-8)
-  
-  Zusatzmaterial: PDF (Ansi), TXT (UTF-8)
+Audio: RIFF-WAVE RIFF (PCM) 44.100 Hz 16 Bit
+Transkripte: XML (UTF-8)
+Zusatzmaterial: PDF (Ansi), TXT (UTF-8)
   
 ### Lizenz
-  nach Anmeldung frei zugänglich unter dgd.ids-mannheim.de
+  nach Anmeldung frei zugänglich unter http://dgd.ids-mannheim.de 
 ### Beispiele
-```
-z.B. die K"ochin mit dem -/#Tufenk/- -/#tu/- -/#topf/- <"ah> -/#Tupfenkoch/- <P> Tupfenkopftuch kocht Karpfen in dem Kupferkochtopf
-```
+
 ### Einsatzmöglichkeiten
   z.B. Automatische Erfassung des Sprecherzustandes; Phonetische oder psycholinguistische Studien
 
