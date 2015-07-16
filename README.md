@@ -247,7 +247,7 @@ frei verfügbar unter http://www.ims.uni-stuttgart.de/data/dirndl
 ### Korpusumfang
 138 Aufnahmen von 214 Sprecherinnen, Gesamtdauer 12h 23min
 ### Annotationsebenen
-orthographische Transkription; Metadaten
+orthographische Transkription (Partiturschreibweise); Metadaten
 ### Formate
 Audio (wav)
 ###Lizenz
