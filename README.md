@@ -621,7 +621,9 @@ http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=91179
 http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=91179580965177C175A8A4097C4104A9&v_doctype=z&v_corpus=OS--&v_doc_id=OS--_Z_07_Lemmaliste_Frequenz.txt
 
 ### Einsatzmöglichkeiten
-  z.B. Automatische Erfassung des Sprecherzustandes; Phonetische oder psycholinguistische Studien
+- Dialektforschung
+- lexikalische Untersuchungen
+- linguistische Forschung
 
 ## Copyright
 ...
