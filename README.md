@@ -683,5 +683,53 @@ In: Proceedings of the 9th International Conference on Language Resources and Ev
 - Rehbein, I. (2014): Wortartenannotation im Kiezdeutschkorpus (KiDKo 1.0) – Draft [verfügbar unter: http://www.kiezdeutschkorpus.de/files/kidko/downloads/POS-KiDKo.pdf, Stand 1.7.2015]
 
 
+## Deutsche Mundarten: ehemalige deutsche Ostgebiete (OS)
+
+### Materialquelle
+  - Geplante Tonbandaufnahmen ostdeutscher Mundarten (Arten: Erzählung, Vortrag, Vorlesen, Standardtext) in den jeweiligen Wohnungen der Sprecher
+  - Realisierung: Face-to-face
+  - 987 ältere Sprecher ost- und südostdeutscher Dialekte (Übersiedler), die den Sprachstand vor 1945 repräsentieren
+  
+### Datum
+  Tonbandaufnahmen von 1962-1965
+  
+### Korpusumfang
+  981 Aufnahmen (Gesamtdauer: 460 Stunden, 52 Minuten), einzelne Aufnahmen: 5 Minuten, 19 Sekunden bis 1 Stunde, 16 Minuten 
+
+  280 Transkriptionen (mit dem Ton synchronisiert)
+  
+  Zusatzmaterial: 
+  - Transkriptionskonventionen
+  - Themenliste
+  - Liste der sprachlichen Besonderheiten
+  - Wortlisten
+  - Lemmalisten
+  - Listen der Berufe der Sprecher
+
+### Annotationsebenen
+  - Transkription: an alter Ortografie orientierte hochsprachliche Übertragung
+  - Erläuterungen der Transkribenten
+  - Lemmatisierung
+  - POS-Tagging
+
+### Formate
+Audio: RIFF-WAVE RIFF (PCM) 44.100 Hz 16 Bit
+
+Transkripte: XML (UTF-8)
+
+Zusatzmaterial: PDF (Ansi), TXT (UTF-8)
+  
+### Lizenz
+  nach Anmeldung frei zugänglich unter http://dgd.ids-mannheim.de 
+### Beispiele
+http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=91179580965177C175A8A4097C4104A9&v_doctype=t&v_corpus=OS--&v_doc_id=OS--_E_00001_SE_01_T_01
+
+http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=91179580965177C175A8A4097C4104A9&v_doctype=z&v_corpus=OS--&v_doc_id=OS--_Z_07_Lemmaliste_Frequenz.txt
+
+### Einsatzmöglichkeiten
+- Dialektforschung
+- lexikalische Untersuchungen
+- linguistische Forschung
+
 ## Copyright
 ...
