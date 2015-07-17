@@ -133,6 +133,61 @@ Stand 15.09.2014
 
 ## DWDS Kernkorpus des 20./21. Jahrhunderts
 
+### Materialquelle
+- Belletristik (ca. 26%)
+- Zeitung (ca. 27%)
+- Wissenschaft (ca. 22%)
+- Gebrauchsliteratur (ca. 20%)
+- (Transkribierte) Texte gesprochener Sprache (ca. 5%)
+
+### Datum
+- befindet sich im Aufbau
+
+### Korpusumfang
+- Zwanzigstes Jahrhundert
+-> Anzahl fortlaufender Textwörter (Tokens) - gesamt: 122.816.010
+-> Anzahl fortlaufender Textwörter (Tokens) ohne Zahlen und Satzzeichen: 100.600.993
+-> Anzahl verschiedener Wörter (Types): 2.224.542
+-> Anzahl Dokumente: 79.830
+
+- Einundzwanzigstes Jahrhundert
+-> Anzahl fortlaufender Textwörter (Tokens): 1.812.243
+-> Anzahl fortlaufender Textwörter (Tokens) ohne Zahlen und Satzzeichen: 1.500.844
+-> Anzahl der Sätze: 112.683
+
+### Annotationsebenen
+- morphosyntaktisch (STTS)
+- syntaktisch
+
+### Formate
+- XML
+
+### Lizenz
+- Nutzungsvereinbarung mit Verlagen:
+-> Diogenes Verlag, Eichborn 
+-> S. Fischer Verlagsgruppe
+-> Hoffmann & Campe
+-> Kiepenheuer & Witsch 
+-> K.G. Saur Verlag
+-> Spiegel 
+-> Ullstein
+-> ZEIT 
+
+- Nutzungsvereinbarung mit privaten Textgebern:
+-> Deutsches Rundfunkarchiev, Digitale Bibliothek
+
+- Zur vollständigen Nutzung ist eine Registrierung auf der Webseite erforderlich
+
+### Beispiele
+siehe: 
+- http://www.dwds.de/?qu=
+- http://zwei.dwds.de/r
+
+
+### Einsatzmöglichkeiten
+- linguistische Forschung
+
+
 ## Wikipedia-Korpus (DeReKo - Tagged C)
 
 ### Materialquelle
