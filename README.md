@@ -27,7 +27,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Katharina Dietz: Wikipedia-Korpus (DeReKo - Tagged C)
  - Gulchehra Kahhorova: SmartKom
  - Melanie Kleefisch: DIRNDL-Korpus
- - Nikola Koczuba:
+ - Nikola Koczuba: EK-Korpus (Elizitierte Konfliktgespräche)
  - Christina Lang: OS-Korpus (Deutsche Mundarten: ehemalige deutsche Ostgebiete)
  - Stephan Lehmler: Alcohol Language Corpus - ALC
  - Sarah Schneider: TIGER-Baumbank
@@ -387,7 +387,33 @@ frei verfügbar unter http://www.ims.uni-stuttgart.de/data/dirndl
 - Bedeutungsunterschiede aufgrund von Prosodie (Informationsstatus)
 - Trainingskorpus für automatisches Prosodie-Annotationen
 	
-## ...
+## Elizitierte Konfliktgespräche (EK)
+### Materialquelle
+ Aufnahmen von Konfliktgesprächen zwischen Müttern und ihren Töchtern
+### Datum
+15.3.1988-30.6.1992
+### Korpusumfang
+- 138 Aufnahmen von 214 Sprecherinnen, Gesamtdauer 12h 23min
+- 138 Transkripte (162123 Tokens)
+
+### Annotationsebenen
+- orthographische Transkription (Partiturschreibweise) mit zusätzlichen Notationen
+- Metadaten
+- Themenliste
+
+### Formate
+- Audio: RIFF-WAVE (PCM) 44.100 Hz 16Bit
+- Transkripte: PDF (UTF-8)
+
+###Lizenz
+nach einmaliger Registrierung webbasierter Zugriff auf ausgewählte Teile der Sammlung des Archivs für Gesprochenes Deutsch (AGD) für die Verwendung in Forschung und Lehre
+http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.welcome
+### Beispiele
+http://dgd.ids-mannheim.de:8080/dgd/pragdb.dgd_extern.corpora?v_session_id=EB1B4C7CC2EA5C6ECF2E9BDEBB72691C&v_doctype=e&v_corpus=EK--&v_doc_id=EK--_E_00001
+
+### Einsatzmöglichkeiten
+- Diskurs-/Gesprächsanalyse
+- pädagogischer Kontext
 
 ## ...
 
